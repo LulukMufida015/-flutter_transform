@@ -49,14 +49,11 @@ Pada tugas praktikum 1 saya membuat perspective sesuai dengan referensi yang dib
 2. Langkah kedua menambahkan GestureDetector
 
 
+https://user-images.githubusercontent.com/52983899/190976861-03a19183-6d6a-4b7a-8bd5-85a41419ba52.mp4
 
 ## Tugas Praktikum 2
 
 Pada tugas praktikum 2 saya membuat flip panel yakni menunjukkan tanggal hari ini
 
-
-
-
-
-
+https://user-images.githubusercontent.com/52983899/190977048-db1a8642-4749-4710-b38f-e7d252b917c6.mp4
 
