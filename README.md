@@ -1,16 +1,62 @@
 # widget_manipulation_in_flutter
 
-A new Flutter project.
+TSA Pertemuan 33 - Manipulasi Widget
 
-## Getting Started
+## Latihan Praktikum
 
-This project is a starting point for a Flutter application.
+Pada latihan praktikum ini saya menerapkan beberapa transform yang harus import library math untuk melakukan perhitungan angka yakni :
 
-A few resources to get you started if this is your first Flutter project:
+1. Transform rotation tanpa menggunakan matrix4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshoot output](images/output_praktikum1.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Transform rotation menggunakan matrix4
+
+![Screenshoot output](images/output_praktikum2.PNG)
+
+3. Transform scale tanpa menggunakan matrix4
+
+![Screenshoot output](images/output_praktikum3.PNG)
+
+4. Transform scale menggunakan matrix4
+
+![Screenshoot output](images/output_praktikum4.PNG)
+
+5. Transform translate tanpa dan menggunakan matrix4
+
+![Screenshoot output](images/output_praktikum5.PNG)
+
+6. Transform transformations tanpa menggunakan matrix4
+
+![Screenshoot output](images/output_praktikum6.PNG)
+
+7. Transform transformations menggunakan matrix4
+
+![Screenshoot output](images/output_praktikum7.PNG)
+
+8. Berikut adalah hasil keseluruhannya
+
+![Screenshoot output](images/hasil_keseluruhan_praktikum.PNG)
+
+## Tugas Praktikum 1
+
+Pada tugas praktikum 1 saya membuat perspective sesuai dengan referensi yang diberikan pada materi hari ini. Untuk membangun aplikasi tersebut terdapat 2 hal yang harus diterapkan yakni transform dan GestureDetector
+
+1. Langkah pertama menambahkan transform
+
+![Screenshoot output](images/tugas_praktikum1_transform.PNG)
+
+2. Langkah kedua menambahkan GestureDetector
+
+
+
+## Tugas Praktikum 2
+
+Pada tugas praktikum 2 saya membuat flip panel yakni menunjukkan tanggal hari ini
+
+
+
+
+
+
+
